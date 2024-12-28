@@ -1,0 +1,95 @@
+/* External css for the cssunit  */
+body{
+    background-color:palevioletred ;
+}
+div{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.AU{
+    border: 1vmax solid rgb(87, 97, 190); 
+    margin: 2vmax;  
+    background-color: bisque;
+}
+
+.cm{
+    border: 1cm solid rgb(160, 206, 221);
+    font-size: 1cm;
+}
+
+.mm{
+    border: 1mm solid rgb(160, 206, 221);
+    font-size: 1mm;
+}
+
+.in{
+    border: 1in solid rgb(160, 206, 221);
+    font-size: 1in;
+}
+
+.px{
+    border: 1px solid rgb(160, 206, 221);
+    font-size: 1px;
+}
+
+
+.pt{
+    border: 1pt solid rgb(160, 206, 221);
+    font-size: 1pt;
+}
+
+.pc{
+    border: 1pc solid rgb(160, 206, 221);
+    font-size: 1pc;
+}
+
+.RU{
+    border: 1vmax solid rgb(125, 87, 190); 
+    margin: 2vmax;
+    background-color: rgb(165, 182, 244); 
+    padding: 1%;
+}
+
+.em{
+    border: 1em solid rgb(235, 232, 235);
+    font-size: 1em;
+}
+
+.ex{
+    border: 1ex solid rgb(235, 232, 235);
+    font-size: 1ex;
+}
+
+.ch{
+    border: 1ch solid rgb(235, 232, 235);
+    font-size: 1ch;
+}
+
+.rem{
+    border: 1rem solid rgb(235, 232, 235);
+    font-size: 1rem;
+}
+
+.vh{
+    border: 1vh solid rgb(235, 232, 235);
+    font-size: 1vh;
+}
+
+.vw{
+    border: 1vw solid rgb(235, 232, 235);
+    font-size: 1vw;
+}
+
+.vmin{
+    border: 1vmin solid rgb(235, 232, 235);
+    font-size: 1vmin;
+}
+
+.vmax{
+    border: 1vmax solid rgb(235, 232, 235);
+    font-size: 1vmax;
+}
+
+.percentage{
+    border: 1% solid rgb(235, 232, 235);
+    font-size: 1%;
+}
